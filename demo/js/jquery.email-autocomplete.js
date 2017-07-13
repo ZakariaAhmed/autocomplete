@@ -1,10 +1,3 @@
-/*
- *  email-autocomplete - 0.1.1
- *  jQuery plugin that displays in-place autocomplete suggestions for email input fields.
- *  
- *
- *  Made by Low Yong Zhen <yz@stargate.io> 
- */
 "use strict";
 
 (function ($, window, document, undefined) {
